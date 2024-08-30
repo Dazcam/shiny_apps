@@ -1,0 +1,10 @@
+name: top_scottish_schools
+title:
+username: dazcam
+account: dazcam
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12563241
+bundleId: 9043227
+url: https://dazcam.shinyapps.io/top_scottish_schools/
+version: 1
