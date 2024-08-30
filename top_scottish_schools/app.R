@@ -9,7 +9,7 @@ library(sf) # geospatial data
 
 ## Set variables
 ## If running / testing locally
-#app_dir <- '~/Desktop/shiny_apps/top_scottish_schools/'
+#app_dir <- setwd('~/Desktop/shiny_apps/top_scottish_schools/')
 
 ## Load data
 league_table <- readRDS('league_table.rds')
